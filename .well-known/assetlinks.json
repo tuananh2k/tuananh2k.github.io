@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tuananh.mobile_sotaysinhvien",
+            "sha256_cert_fingerprints": [
+                "F3:CA:26:D3:F8:A9:4C:1A:18:2F:5B:E1:DA:0B:69:63:BE:3B:21:B8:1B:21:DF:E0:95:D4:3C:BF:C3:A0:3A:9A"
+            ]
+        }
+    }
+]
